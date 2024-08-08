@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RoomMateFinder/static/css/main.8f518da2.css",
+    "main.js": "/RoomMateFinder/static/js/main.248733cd.js",
+    "static/media/sec2-img.png": "/RoomMateFinder/static/media/sec2-img.a19a77915c6881d7d93a.png",
+    "static/media/sec4img.png": "/RoomMateFinder/static/media/sec4img.e1391ef3e4183b19fb34.png",
+    "static/media/land-img2.png": "/RoomMateFinder/static/media/land-img2.ba6f04d1a503df70d9b6.png",
+    "static/media/amico.png": "/RoomMateFinder/static/media/amico.deb82ec4b73e862bbe6e.png",
+    "static/media/Email campaign-pana 1.png": "/RoomMateFinder/static/media/Email campaign-pana 1.3ea9374e52a3a14d5e54.png",
+    "static/media/Data report-amico 1.png": "/RoomMateFinder/static/media/Data report-amico 1.9589003d1b8aa6d41d67.png",
+    "static/media/Questions-pana 1.png": "/RoomMateFinder/static/media/Questions-pana 1.3599b9ef0a9c375bbf59.png",
+    "static/media/Address-bro.png": "/RoomMateFinder/static/media/Address-bro.9c16dcde4cf83a70674c.png",
+    "index.html": "/RoomMateFinder/index.html",
+    "main.8f518da2.css.map": "/RoomMateFinder/static/css/main.8f518da2.css.map",
+    "main.248733cd.js.map": "/RoomMateFinder/static/js/main.248733cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f518da2.css",
+    "static/js/main.248733cd.js"
+  ]
+}
